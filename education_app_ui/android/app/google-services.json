@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267016575564",
+    "project_id": "projectpmobprak",
+    "storage_bucket": "projectpmobprak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267016575564:android:620c06fecfe615452a32e9",
+        "android_client_info": {
+          "package_name": "com.example.education_app_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQxFwAc6VonepZmwTW5g1wGsgcpnGEXto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
